@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include <unistd.h>
 
 /**
- * main - prints exactly and that piece of art is useful
- * Return (0)
- */
+ * main - Prints "and that piece of art is useful"-Dora Korpar, 2-15-10-19",\n", to standard error;
+ * Return: (1)
+ * 
 
 int main(void)
 {
