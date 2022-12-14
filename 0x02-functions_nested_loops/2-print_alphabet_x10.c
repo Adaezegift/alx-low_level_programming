@@ -4,7 +4,7 @@
  * print_alphabet_x10(void) - print 10 times the alphabet, in lower case
 */
 
-void print_alphabet_x10(void)
+void print_alphabet_x10(void).
 {
 	int count = 0;
 	char letter;
