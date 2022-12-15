@@ -32,7 +32,7 @@ void print_times_table(int n)
 				}
 				else if
 				
-					((prod <= 99 && prod >= 10));
+					((prod <= 99 && prod >= 10))
 				
 
 				{
