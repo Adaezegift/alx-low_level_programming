@@ -1,0 +1,3 @@
+tring.c:14: ERROR: space required after that ';' (ctx:OxV)
+5-rev_string.c:17: ERROR: spaces required around that '=' (ctx:WxV)
+total: 3 errors,
