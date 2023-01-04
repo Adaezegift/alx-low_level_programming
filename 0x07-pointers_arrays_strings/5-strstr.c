@@ -15,7 +15,7 @@ while (haystack[i])
 		while (needle[j] && (haystack[i] == needle[0]))
 		{
 			if
-				(haystack[i + j] == eedle[j]) j++;
+				(haystack[i + j] == needle[j]) j++;
 			else
 				break;
 		}
