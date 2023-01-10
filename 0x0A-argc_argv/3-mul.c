@@ -37,12 +37,12 @@ int _atoi(char *s)
 			f = 0;
 
 	i++;
-
-{	if (f == 0);
-		return (0);
+{
+	if
+		(f == 0);
+	return (0);
 }
 	return (n);
-	
 }
 
 /**
@@ -67,8 +67,6 @@ int main(int argc, char *argv[])
 		return (1);
 
 	}
-
-
 
 	num1 = _atoi(argv[1]);
 
