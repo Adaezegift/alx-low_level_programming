@@ -38,20 +38,14 @@ int check_num(char *str)
 	 * Return: Always 0 (Success)
 	 */
 
+int main(int argc, char *argv[])
+{
+	/*Declaring variables*/
+	int count;
+	int str_to_int;
+	int sum = 0;
 
-	int main(int argc, char *argv[])
-
-
-	{
-
-
-		/*Declaring variables*/
-		int count;
-		int str_to_int;
-		int sum = 0;
-
-
-		count = 1;
+	count = 1;
 		while (count < argc) /*Goes through the whole array*/
 		{
 			if (check_num(argv[count]))
